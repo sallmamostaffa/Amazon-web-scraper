@@ -2,7 +2,7 @@
 
 This repository contains a Python-based web scraper that extracts product names and their prices from e-commerce websites. The scraped data is used for price analysis and tracking competitive prices for informed business decisions.
 
-This project was developed as part of my **Commercial Development (Data Science) Internship** at **Nestlé Waters Egypt**, where it was utilized to monitor competitor product pricing, helping to inform and refine our pricing strategy.
+This project was developed as part of my **Data Science Internship as part of the Commercial Development team** at **Nestlé Waters Egypt**, where it was utilized to monitor competitor product pricing, helping to inform and refine our pricing strategy.
 
 ## Features
 - **Web scraping**: Extract product names and prices from specified e-commerce websites.
