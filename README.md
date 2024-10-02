@@ -55,7 +55,7 @@ As part of my internship at **Nestlé Waters Egypt**, this project was used to:
     ```
 - In the notebook, you can load the data, clean it, and visualize price trends. The cleaned data is then integrated into an interactive dashboard to facilitate easy exploration of pricing insights.
 
-## Use Case for Nestlé Waters Egypt
+## Use Case
 
 This project was integral to supporting **Nestlé Waters Egypt** in staying competitive in the market. By providing real-time insights into competitor pricing, the team could:
 - Identify pricing trends over time.
