@@ -53,7 +53,7 @@ As part of my internship at **Nestlé Waters Egypt**, this project was used to:
     ```bash
     jupyter notebook notebooks/price_analysis.ipynb
     ```
-- In the notebook, you can load the data, clean it, and visualize price trends.
+- In the notebook, you can load the data, clean it, and visualize price trends. The cleaned data is then integrated into an interactive dashboard to facilitate easy exploration of pricing insights.
 
 ## Use Case for Nestlé Waters Egypt
 
@@ -68,6 +68,3 @@ This project was integral to supporting **Nestlé Waters Egypt** in staying comp
 2. **Automate Data Collection**: Implement scheduling to automatically collect and analyze data at regular intervals.
 3. **Advanced Analytics**: Include more advanced statistical analyses and machine learning models to forecast pricing trends and predict competitor movements.
 4. **Real-Time Dashboard**: Integrate the results into a live dashboard for real-time price tracking and visualization.
-
-
-
