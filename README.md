@@ -69,7 +69,5 @@ This project was integral to supporting **Nestlé Waters Egypt** in staying comp
 3. **Advanced Analytics**: Include more advanced statistical analyses and machine learning models to forecast pricing trends and predict competitor movements.
 4. **Real-Time Dashboard**: Integrate the results into a live dashboard for real-time price tracking and visualization.
 
-## Acknowledgments
 
-This project was developed as part of my **Commercial Development (Data Science) Internship** at **Nestlé Waters Egypt**. Special thanks to the team at Nestlé Waters Egypt for their guidance and support throughout this project.
 
